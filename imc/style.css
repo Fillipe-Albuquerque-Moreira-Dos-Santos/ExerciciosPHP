@@ -1,0 +1,39 @@
+form {
+
+    margin: 0 auto;
+    width: 400px;
+    padding: 1em;
+    
+    margin-top: 1em;
+
+}
+
+h2 {
+
+    text-align: center;
+
+}
+
+#formulario label 
+{
+  position:absolute;
+  left:40%;
+  margin-right:5px;
+  padding: 5px;
+}
+
+#formulario input
+{
+  position:absolute;
+  left:45%;
+  margin-right:5px;
+  
+}
+
+fieldset
+{
+
+  width: 30%;
+  margin-left: 390px;
+  
+}
